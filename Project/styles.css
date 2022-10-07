@@ -96,6 +96,10 @@ body {
   .modal {
     background-color: #3882f6;
     display: flex;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
   }
 
   .modalbutton{
@@ -103,10 +107,7 @@ body {
     font-size: 18px;
     outline: #f9faf8;
     color: #f9faf8;
-    margin-top: 100px;
-    margin-bottom: 100px;
-    margin-right: 150px;
-    margin-left: 150px;
+
   }
 
   .heading {
