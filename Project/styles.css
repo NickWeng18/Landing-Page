@@ -38,6 +38,7 @@ body {
   .buttonone{
     background-color: #3882f6;
     font-size: 18px;
+    color: #f9faf8;
   }
 
 <!--section Two-->
@@ -93,6 +94,7 @@ body {
     background-color: #3882f6;
     font-size: 18px;
     outline: #f9faf8;
+    color: #f9faf8;
   }
 
   .heading {
