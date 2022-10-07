@@ -1,6 +1,33 @@
 body {
-    font-family: ;
+    font-family: Roboto;
     text-align: center;
     display: flex;
     flex-direction: column;
+  }
+
+  .header{
+
+  }
+
+  .sectionone{
+    background-color: #1f2937;
+
+  }
+
+  .sectiontwo{
+    
+  }
+
+  .sectionthree{
+    background-color: #e5e7eb;
+
+  }
+
+  .sectionfour{
+    
+  }
+
+  footer {
+    background-color: #1f2937;
+    
   }
