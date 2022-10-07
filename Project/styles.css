@@ -90,6 +90,7 @@ body {
     display: flex;
     margin-left: 24px;
     margin-right: 24px;
+    align-items: center;
   }
 
   .modal {
@@ -102,6 +103,10 @@ body {
     font-size: 18px;
     outline: #f9faf8;
     color: #f9faf8;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
   }
 
   .heading {
