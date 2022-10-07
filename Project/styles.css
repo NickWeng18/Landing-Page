@@ -120,4 +120,5 @@ body {
     font-size: 18px;
     color: #e5e7eb;
     list-style-type: none;
+    gap: 8px;
   }
