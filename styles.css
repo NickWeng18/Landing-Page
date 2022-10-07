@@ -1,5 +1,5 @@
 body {
-    font-family: Roboto;
+    font-family: Roboto, sans-serif;
     text-align: center;
     display: flex;
     flex-direction: column;
@@ -7,31 +7,109 @@ body {
 
   .header{
     display: flex;
+
   }
 
+<!--section One-->
   .sectionone{
     background-color: #1f2937;
     display: flex;
 
   }
 
+  .subtitle{
+    font-size: 48px;
+    color: #f9faf8;
+    font-weight: 800;
+  }
+
+  .contentone .header{
+    font-size: 24px;
+    font-weight: bold;
+    color: #f9faf8;
+  }
+
+  .buttonone{
+    background-color: #3882f6;
+    font-size: 18px;
+  }
+
+<!--section Two-->
   .sectiontwo{
     display: flex;
   }
 
+  .subtitletwo{
+    font-size: 36px;
+    font-weight: 800;
+    color: #1f2937;
+  }
+
+  .container{
+    display: flex;
+  }
+
+  .card {
+    font-size: 18px;
+  }
+
+  <!--section Three-->
   .sectionthree{
     background-color: #e5e7eb;
     display: flex;
 
   }
 
+  .quote {
+    font-size: 36px;
+    color: #1f2937;
+    font-style: italic;
+    font-weight: lighter;
+  }
+
+  .ref{
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  <!--section Four-->
   .sectionfour{
     display: flex;
     
   }
 
-  footer {
+  .modal {
+    background-color: #3882f6;
+    display: flex;
+  }
+
+  .modalbutton{
+    background-color: #3882f6;
+    font-size: 18px;
+    outline: #f9faf8;
+  }
+
+  .heading {
+    font-size: 18px;
+    color: #f9faf8;
+    font-weight: bold;
+  }
+
+  .text{
+    font-size: 18px;
+    color: #f9faf8;
+  }
+
+  .footer {
     background-color: #1f2937;
     display: flex;
+    color: #f9faf8;
+    font-size: 12px;
+  }
 
+  ul {
+    display: flex;
+    font-size: 18px;
+    color: #e5e7eb;
+    list-style-type: none;
   }
