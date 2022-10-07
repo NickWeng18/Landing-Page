@@ -16,7 +16,6 @@ body {
     flex-direction: column;
   }
 
-<!--section One-->
   .sectionone{
     background-color: #1f2937;
     display: flex;
@@ -41,7 +40,6 @@ body {
     color: #f9faf8;
   }
 
-<!--section Two-->
   .sectiontwo{
     display: flex;
   }
@@ -60,7 +58,6 @@ body {
     font-size: 18px;
   }
 
-  <!--section Three-->
   .sectionthree{
     background-color: #e5e7eb;
     display: flex;
@@ -79,7 +76,6 @@ body {
     font-weight: bold;
   }
 
-  <!--section Four-->
   .sectionfour{
     display: flex;
     
