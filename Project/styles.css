@@ -29,6 +29,11 @@ body {
     padding-right: 24px;
   }
 
+  .sectiononeleft {
+    display: flex;
+    flex-direction: column;
+  }
+
   .subtitleone{
     font-size: 48px;
     color: #f9faf8;
