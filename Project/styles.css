@@ -27,6 +27,7 @@ body {
     display: flex;
     padding-left: 24px;
     padding-right: 24px;
+    justify-content: space-between;
   }
 
   .sectiononeleft {
@@ -92,6 +93,7 @@ body {
     display: flex;
     padding-left: 24px;
     padding-right: 24px;
+    flex-direction: column;
   }
 
   .quote {
@@ -104,6 +106,7 @@ body {
   .ref{
     font-size: 18px;
     font-weight: bold;
+    align-items: flex-end;
   }
 
   .sectionfour{
