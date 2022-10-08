@@ -61,6 +61,8 @@ body {
     display: flex;
     padding-left: 24px;
     padding-right: 24px;
+    flex-direction: column;
+    align-items: center;
   }
 
   .subtitletwo{
@@ -71,6 +73,9 @@ body {
 
   .container{
     display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 12px;
   }
 
   .card {
