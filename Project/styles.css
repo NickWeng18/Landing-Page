@@ -131,6 +131,10 @@ html, body {
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 150px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    padding-right: 60px;
+    padding-left: 60px;
   }
 
   .modalbutton{
@@ -138,10 +142,7 @@ html, body {
     font-size: 18px;
     outline: #f9faf8;
     color: #f9faf8;
-    padding-top: 20px;
-    padding-bottom: 20px;
-    padding-right: 30px;
-    padding-left: 30px;
+
   }
 
   .heading {
