@@ -31,6 +31,7 @@ html, body {
     padding-left: 24px;
     padding-right: 24px;
     justify-content: space-between;
+    height: 150px;
   }
 
   .sectiononeleft {
@@ -99,6 +100,7 @@ html, body {
     padding-left: 24px;
     padding-right: 24px;
     flex-direction: column;
+    height: 150px;
   }
 
   .quote {
@@ -162,6 +164,7 @@ html, body {
     color: #f9faf8;
     font-size: 12px;
     justify-content: center;
+    height: 60px;
   }
 
   ul {
