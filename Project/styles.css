@@ -4,12 +4,13 @@ html, body {
   height: 100%;
 }
 
-body {
+  body {
     font-family: Roboto, sans-serif;
     display: flex;
     flex-direction: column;
   }
 
+   /* Header */
   .header{
     display: flex;
     background-color: #1f2937;
@@ -23,6 +24,7 @@ body {
     flex-direction: column;
   }
 
+  /* Section One */
   .sectionone{
     background-color: #1f2937;
     display: flex;
@@ -59,6 +61,7 @@ body {
     color: #f9faf8;
   }
 
+   /* Section Two */
   .sectiontwo{
     display: flex;
     padding-left: 24px;
@@ -89,6 +92,7 @@ body {
     width: 50px;
   }
 
+   /* Section Three */
   .sectionthree{
     background-color: #e5e7eb;
     display: flex;
@@ -110,6 +114,7 @@ body {
     justify-content: right;
   }
 
+   /* Section Four */  
   .sectionfour{
     display: flex;
     padding-left: 24px;
@@ -149,6 +154,7 @@ body {
     color: #f9faf8;
   }
 
+ /* Footer */
   .footer {
     background-color: #1f2937;
     display: flex;
