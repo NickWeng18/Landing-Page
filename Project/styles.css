@@ -35,6 +35,11 @@ body {
     font-weight: 800;
   }
 
+  .placeholderone{
+    width: 200px;
+    height: 100px;
+  }
+
   .contentone, .header{
     font-size: 24px;
     font-weight: bold;
@@ -65,6 +70,11 @@ body {
 
   .card {
     font-size: 18px;
+  }
+
+  .cardimage {
+    height: 50px;
+    width: 50px;
   }
 
   .sectionthree{
@@ -108,10 +118,10 @@ body {
     font-size: 18px;
     outline: #f9faf8;
     color: #f9faf8;
-    margin-top: 20px;
-    margin-bottom: 20px;
-    margin-right: 30px;
-    margin-left: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    padding-right: 30px;
+    padding-left: 30px;
   }
 
   .heading {
@@ -130,7 +140,7 @@ body {
     display: flex;
     color: #f9faf8;
     font-size: 12px;
-    align-items: center;
+    justify-content: center;
   }
 
   ul {
