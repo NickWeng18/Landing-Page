@@ -130,6 +130,7 @@ html, body {
   }
 
   .quote {
+    display: flex;
     font-size: 36px;
     color: #1f2937;
     font-style: italic;
@@ -137,6 +138,7 @@ html, body {
   }
 
   .ref{
+    display: flex;
     font-size: 18px;
     font-weight: bold;
     justify-content: right;
