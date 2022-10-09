@@ -46,7 +46,6 @@ html, body {
   .sectiononeleft {
     display: flex;
     flex-direction: column;
-    flex: none;
     gap: 8px;
   }
 
@@ -103,12 +102,10 @@ html, body {
   }
 
   .card {
-    display: flex;
     font-size: 18px;
     align-items: center;
     justify-content: center;
   }
-
 
   .cardimage {
     object-fit: cover;
@@ -196,7 +193,7 @@ html, body {
     justify-content: center;
     height: 100px;
     align-items: center;
-    padding: 25px;
+    margin: 25px;
   }
 
   ul {
@@ -204,5 +201,5 @@ html, body {
     font-size: 18px;
     color: #e5e7eb;
     list-style-type: none;
-    gap: 20px;
+    gap: 8px;
   }
