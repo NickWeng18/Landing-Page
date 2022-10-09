@@ -119,8 +119,8 @@ html, body {
 
   .cardimage {
     object-fit: cover;
-    height: 150px;
-    width: 150px;
+    height: 200px;
+    width: 200px;
     border: 4px solid #3882f6;
   }
 
