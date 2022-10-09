@@ -108,6 +108,11 @@ html, body {
     justify-content: center;
   }
 
+  .cardtext {
+    width: 150px;
+    text-align: center;
+  }
+
   .cardimage {
     object-fit: cover;
     height: 150px;
