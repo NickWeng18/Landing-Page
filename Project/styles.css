@@ -114,6 +114,7 @@ html, body {
   .cardtext {
     width: 200px;
     text-align: center;
+    justify-content: center;
   }
 
   .cardimage {
@@ -217,4 +218,5 @@ html, body {
 
   a {
     text-decoration: none;
+    color: #f9faf8;
   }
