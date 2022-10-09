@@ -103,6 +103,7 @@ html, body {
   .cardimage {
     height: 150px;
     width: 150px;
+    border: 8px solid #3882f6;
   }
 
    /* Section Three */
