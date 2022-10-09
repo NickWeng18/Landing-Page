@@ -73,6 +73,7 @@ html, body {
     border: none;
     border-radius: 8px;
     width: 100px;
+    height: 30px;
   }
 
    /* Section Two */
@@ -131,7 +132,6 @@ html, body {
     padding-right: 20%;
     padding-top: 120px;
     padding-bottom: 120px;
-    align-items: center;
     justify-content: center;
   }
 
