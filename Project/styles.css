@@ -40,13 +40,13 @@ html, body {
     padding-left: 15%;
     padding-right: 15%;
     align-items: center;
-    row-gap: 20px;
-    column-gap: 50px;
+    gap: 20px;
   }
 
   .sectiononeleft {
     display: flex;
     flex-direction: column;
+    gap: 8px;
   }
 
   .subtitleone{
