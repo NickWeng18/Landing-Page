@@ -195,7 +195,8 @@ html, body {
     justify-content: center;
     height: 100px;
     align-items: center;
-    margin: 25px;
+    padding: 25px;
+    gap: 15px;
   }
 
   ul {
