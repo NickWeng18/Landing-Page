@@ -70,6 +70,8 @@ html, body {
     background-color: #3882f6;
     font-size: 18px;
     color: #f9faf8;
+    border: none;
+    border-radius: 8px;
   }
 
    /* Section Two */
@@ -102,6 +104,7 @@ html, body {
   .card {
     font-size: 18px;
     align-items: center;
+    justify-content: center;
   }
 
   .cardimage {
@@ -165,9 +168,9 @@ html, body {
   .modalbutton{
     background-color: #3882f6;
     font-size: 18px;
-    outline: #f9faf8;
+    border-color: #f9faf8;
     color: #f9faf8;
-
+    border-radius: 8px;
   }
 
   .heading {
